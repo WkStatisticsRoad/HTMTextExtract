@@ -1,7 +1,9 @@
 This repository contains the benchmark dataset and code for experiments in the field of geoscience. The main components are:
 
 Geo-Terminology Relatedness Dataset (Geo-Terminology Relatedness Dataset.xlsx)
+
 Geoscientific Dataset Names (trainDataSetTitles.txt)
+
 Research Literature (TestText.txt)
 
 
