@@ -24,4 +24,4 @@ Java Version: JDK 1.8
 pom.xml: Ensure that all dependencies and configurations are properly set up.
 
 # Related Platform
-We conducted experiments using the open-source HTM framework on the Numenta Platform for Intelligent Computing (NuPIC) ((https://github.com/numenta/htm.java)).
+We conducted experiments using the open-source HTM framework on the Numenta Platform for Intelligent Computing (NuPIC) (https://github.com/numenta/htm.java).
